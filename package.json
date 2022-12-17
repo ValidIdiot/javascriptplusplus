@@ -1,0 +1,23 @@
+{
+  "name": "javascriptplusplus",
+  "version": "1.0.0",
+  "description": "The best JavaScript library made by a guy who doesn't even know JavaScript.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValidIdiot/javascriptplusplus.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "ValidIdiot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ValidIdiot/javascriptplusplus/issues"
+  },
+  "homepage": "https://github.com/ValidIdiot/javascriptplusplus#readme"
+}
